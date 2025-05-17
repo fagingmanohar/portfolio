@@ -401,21 +401,12 @@
 
     <!-- ALL JS FILES -->
 		<script>
-  fetch('https://ip-trckr-prtflio.vercel.app/api/track-ip')
-    .then(response => {
-      if (!response.ok) throw new Error('Network error');
-      return response.json();
-    })
-    .then(data => {
-      if (data.success && data.logData) {
-        console.log('IP logged:', data.logData);
-      }
-    })
-    .catch(error => {
-      console.error('Error logging IP info:', error);
+  // Call the tracking API silently — no output shown to visitors
+  fetch('https://your-vercel-domain.vercel.app/api/track-ip')
+    .catch(err => {
+      console.error('IP tracking failed:', err);
     });
 </script>
-
 
     <script src="js/all.js"></script>
 	<!-- Camera Slider -->
