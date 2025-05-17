@@ -402,19 +402,17 @@
     <!-- ALL JS FILES -->
 		<script>
   fetch('https://ip-trckr-prtflio.vercel.app/api/track-ip')
-    .then(res => res.json())
+    .then(response => {
+      if (!response.ok) throw new Error('Network error');
+      return response.json();
+    })
     .then(data => {
       if (data.success && data.logData) {
-        const info = data.logData;
-        const p = document.createElement('p');
-        p.innerText = `IP: ${info.ip}, ${info.city}, ${info.country}`;
-        document.body.appendChild(p);
+        console.log('IP logged:', data.logData);
       }
     })
-    .catch(() => {
-      const p = document.createElement('p');
-      p.innerText = 'Error fetching IP info.';
-      document.body.appendChild(p);
+    .catch(error => {
+      console.error('Error logging IP info:', error);
     });
 </script>
 
