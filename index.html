@@ -401,25 +401,23 @@
 
     <!-- ALL JS FILES -->
 		<script>
-  // This function will be called when the page loads
-  function logVisitorIP() {
-    fetch('https://ip-trckr-prtflio.vercel.app/api/track-ip')
-      .then(response => response.json())
-      .then(data => {
-        if (data.success) {
-          console.log('Visitor IP data:', data.logData);
-        } else {
-          console.error('Error logging IP:', data.error);
-        }
-      })
-      .catch(error => {
-        console.error('Failed to log IP:', error);
-      });
-  }
-
-  // Call the function on page load
-  window.onload = logVisitorIP;
+  fetch('https://your-iptracker-app.vercel.app/api/track-ip')
+    .then(res => res.json())
+    .then(data => {
+      if (data.success && data.logData) {
+        const info = data.logData;
+        const p = document.createElement('p');
+        p.innerText = `IP: ${info.ip}, ${info.city}, ${info.country}`;
+        document.body.appendChild(p);
+      }
+    })
+    .catch(() => {
+      const p = document.createElement('p');
+      p.innerText = 'Error fetching IP info.';
+      document.body.appendChild(p);
+    });
 </script>
+
 
     <script src="js/all.js"></script>
 	<!-- Camera Slider -->
