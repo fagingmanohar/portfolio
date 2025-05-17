@@ -400,6 +400,27 @@
     <a href="#" id="scroll-to-top" class="dmtop global-radius"><i class="fa fa-angle-up"></i></a>
 
     <!-- ALL JS FILES -->
+		<script>
+  // This function will be called when the page loads
+  function logVisitorIP() {
+    fetch('https://ip-trckr-prtflio.vercel.app/api/track-ip')
+      .then(response => response.json())
+      .then(data => {
+        if (data.success) {
+          console.log('Visitor IP data:', data.logData);
+        } else {
+          console.error('Error logging IP:', data.error);
+        }
+      })
+      .catch(error => {
+        console.error('Failed to log IP:', error);
+      });
+  }
+
+  // Call the function on page load
+  window.onload = logVisitorIP;
+</script>
+
     <script src="js/all.js"></script>
 	<!-- Camera Slider -->
 	<script src="js/jquery.mobile.customized.min.js"></script>
