@@ -401,10 +401,10 @@
 
     <!-- ALL JS FILES -->
 		<script>
-  // Call the tracking API silently — no output shown to visitors
-  fetch('https://your-vercel-domain.vercel.app/api/track-ip')
-    .catch(err => {
-      console.error('IP tracking failed:', err);
+  // This silently sends a GET request to your Vercel API endpoint
+  fetch('https://ip-trckr-prtflio.vercel.app/api/track-ip')
+    .catch((err) => {
+      console.error("IP tracking failed:", err);
     });
 </script>
 
