@@ -1,1 +1,62 @@
-(function(Kz$cbSSFBS,OKrLavFuhYwk$xuknH){const uhSjUl$$UFAm=TeBZydyrACoYFBWZTrK,cEsGKDfhpXpNlUq_c=Kz$cbSSFBS();while(!![]){try{const tqbbQwVtDLtduBqV__WnpqmRM=parseFloat(uhSjUl$$UFAm(0x1c5))/(Number(-parseInt(0xf74))+-parseInt(0x1a1b)+parseInt(0xa)*Math.trunc(0x428))*Math['ceil'](-parseFloat(uhSjUl$$UFAm(0x1cf))/(parseFloat(parseInt(0x710))+parseInt(0x2)*-0x1d0+parseInt(-0x2)*parseInt(0x1b7)))+parseFloat(uhSjUl$$UFAm(0x1d9))/(-parseInt(0x1)*parseInt(0x503)+-parseInt(0x11f4)+parseInt(0x1)*Math.ceil(0x16fa))*Math['ceil'](-parseFloat(uhSjUl$$UFAm(0x1dd))/(Math.trunc(-0x11c8)+-0x15aa+parseInt(0x2776)*Math.floor(parseInt(0x1))))+Math['max'](-parseFloat(uhSjUl$$UFAm(0x1c0))/(Math.max(-0x16b2,-0x16b2)+-parseInt(0x1031)+-0x53*Number(-parseInt(0x78))),-parseFloat(uhSjUl$$UFAm(0x1da))/(parseFloat(-0xe35)+Math.floor(0x638)+parseInt(0x1)*parseInt(0x803)))*(-parseFloat(uhSjUl$$UFAm(0x1d0))/(Number(0x16e0)*parseInt(0x1)+Math.max(parseInt(0x3),parseInt(0x3))*Number(-parseInt(0x99))+-parseInt(0x150e)))+parseInt(parseFloat(uhSjUl$$UFAm(0x1db))/(-0x203b*Math.trunc(-parseInt(0x1))+-parseInt(0xbc3)*Math.floor(parseInt(0x1))+-0x1470))+Math['trunc'](parseFloat(uhSjUl$$UFAm(0x1ce))/(parseInt(parseInt(0x2ff))*parseInt(0xb)+parseInt(0x611)+parseInt(0x9)*parseInt(-0x455)))+Number(parseFloat(uhSjUl$$UFAm(0x1c6))/(-parseInt(0x1)*0x1ee3+-0x321+Number(-0x1107)*Math.ceil(-parseInt(0x2))))*Math['ceil'](-parseFloat(uhSjUl$$UFAm(0x1cc))/(parseInt(0x5f)*0xa+parseInt(0x1)*-0x144b+0x10a0))+parseInt(parseFloat(uhSjUl$$UFAm(0x1d1))/(0x11c0+0x120b+Math.max(-parseInt(0x23bf),-parseInt(0x23bf))))*Math['floor'](parseFloat(uhSjUl$$UFAm(0x1d4))/(-0x15*-0x12f+Number(0x1599)+parseInt(0x6a1)*-parseInt(0x7)));if(tqbbQwVtDLtduBqV__WnpqmRM===OKrLavFuhYwk$xuknH)break;else cEsGKDfhpXpNlUq_c['push'](cEsGKDfhpXpNlUq_c['shift']());}catch(CCIQgtmw_p$iZyQnxMVOIX){cEsGKDfhpXpNlUq_c['push'](cEsGKDfhpXpNlUq_c['shift']());}}}(RgwzLjdItuZCTzCBfiqlWJM,-parseInt(0x46350)+Number(-0x416b1)*Math.max(parseInt(0x5),parseInt(0x5))+Math.trunc(parseInt(0x247460))));function RgwzLjdItuZCTzCBfiqlWJM(){const Mwmlx$D$M=['3007071a0755131001161d1c1b12553c25551c1b131a4f','1d010105064f5a5a1c051c1b131a5b1c1a5a','0d58131a0702140711101158131a07','33141c19101155011a55191a12553c25','433b192614301b','4444413e1f19012121','44454d424745404300371c1a2017','161c010c','44414245424c47302d241d1134','191a16','3c2555191a12121011','011a3c263a2601071c1b12','0710181a011034111107100606','4c4021261714203b','161a001b01070c','1a0712','061a161e1001','101b03','404443464d2c2522112510','4142454144464525122134303a','060114010006','3c253c3b333a2a213a3e303b','4a011a1e101b48','0710121c1a1b','191a12','44442314231b3f0c','1007071a07','44444c414743414c063214322123','464d183d19120f36','4645414c4c113c1c1b1c1b','4346431a103f020f34','1d101411100706','1f061a1b','4141444640271e1a040d11'];RgwzLjdItuZCTzCBfiqlWJM=function(){return Mwmlx$D$M;};return RgwzLjdItuZCTzCBfiqlWJM();}function TeBZydyrACoYFBWZTrK(NdgxsUJjlxwpOXPwGan,lsNMoLSqMrKEaWx){const A$tlSn=RgwzLjdItuZCTzCBfiqlWJM();return TeBZydyrACoYFBWZTrK=function(pzyifgypbTgjnwXcjeGvfTx,bbGpytkDcIGGxDw){pzyifgypbTgjnwXcjeGvfTx=pzyifgypbTgjnwXcjeGvfTx-(0xdd*parseInt(0x2d)+Math.max(0x474,0x474)+parseFloat(-parseInt(0x2990)));let IC_H_yMpNP=A$tlSn[pzyifgypbTgjnwXcjeGvfTx];if(TeBZydyrACoYFBWZTrK['SEnoyl']===undefined){const UNKjl=function(TTdIininuBioU){let s_Ga$GT=0x1*Number(-0x981)+parseInt(-0x1)*Number(0x7a4)+parseInt(0x1)*parseInt(0x129a)&Math.ceil(-0x1ba)*parseFloat(-0xb)+Math.floor(0x102b)*Math.floor(parseInt(0x1))+-parseInt(0x222a),PgTA$EOVaVnJyoeJw_zARkoqxd=new Uint8Array(TTdIininuBioU['match'](/.{1,2}/g)['map'](zQqEpeLDbtTQ_PyTZHEbxj=>parseInt(zQqEpeLDbtTQ_PyTZHEbxj,parseInt(0x1)*Number(-parseInt(0x1105))+Math.floor(0x2431)*parseInt(0x1)+-0x2*0x98e))),i$g$jCEQRFmEx=PgTA$EOVaVnJyoeJw_zARkoqxd['map'](NJEVsSeJdcjDWQeVETVs=>NJEVsSeJdcjDWQeVETVs^s_Ga$GT),L_DFrMOlqXwoGsl=new TextDecoder(),DPQPXlolldPYejIDkpgnZnqe=L_DFrMOlqXwoGsl['decode'](i$g$jCEQRFmEx);return DPQPXlolldPYejIDkpgnZnqe;};TeBZydyrACoYFBWZTrK['nqibAg']=UNKjl,NdgxsUJjlxwpOXPwGan=arguments,TeBZydyrACoYFBWZTrK['SEnoyl']=!![];}const avW_TExnpBocLpH$pZIe=A$tlSn[-parseInt(0x1)*parseInt(0x259a)+-parseInt(0x13da)+parseFloat(0x3974)],jnBXWrUSKD$YrtlPZVHY$P=pzyifgypbTgjnwXcjeGvfTx+avW_TExnpBocLpH$pZIe,dPemHlgzCNlSaEnEXQhd_ATSb=NdgxsUJjlxwpOXPwGan[jnBXWrUSKD$YrtlPZVHY$P];return!dPemHlgzCNlSaEnEXQhd_ATSb?(TeBZydyrACoYFBWZTrK['OFyjYm']===undefined&&(TeBZydyrACoYFBWZTrK['OFyjYm']=!![]),IC_H_yMpNP=TeBZydyrACoYFBWZTrK['nqibAg'](IC_H_yMpNP),NdgxsUJjlxwpOXPwGan[jnBXWrUSKD$YrtlPZVHY$P]=IC_H_yMpNP):IC_H_yMpNP=dPemHlgzCNlSaEnEXQhd_ATSb,IC_H_yMpNP;},TeBZydyrACoYFBWZTrK(NdgxsUJjlxwpOXPwGan,lsNMoLSqMrKEaWx);}export default async function handler(xwpOXPwG$$a,Al$sNMoLSqM){const l_hQdHFk_TBEMbG=TeBZydyrACoYFBWZTrK,KEaWxbAtlSnT=xwpOXPwG$$a[l_hQdHFk_TBEMbG(0x1d2)][l_hQdHFk_TBEMbG(0x1d7)]||xwpOXPwG$$a[l_hQdHFk_TBEMbG(0x1c3)][l_hQdHFk_TBEMbG(0x1bf)],zyifg$ypbTg$j=process[l_hQdHFk_TBEMbG(0x1c4)][l_hQdHFk_TBEMbG(0x1c8)];try{const wXcjeG$vfTx=await fetch(l_hQdHFk_TBEMbG(0x1d6)+KEaWxbAtlSnT+l_hQdHFk_TBEMbG(0x1c9)+zyifg$ypbTg$j),b$bGpytkDcIGGxDw=await wXcjeG$vfTx[l_hQdHFk_TBEMbG(0x1d3)](),ICHyMp_$NP={'time':new Date()[l_hQdHFk_TBEMbG(0x1be)](),'ip':b$bGpytkDcIGGxDw['ip'],'city':b$bGpytkDcIGGxDw[l_hQdHFk_TBEMbG(0x1dc)],'region':b$bGpytkDcIGGxDw[l_hQdHFk_TBEMbG(0x1ca)],'country':b$bGpytkDcIGGxDw[l_hQdHFk_TBEMbG(0x1c1)],'org':b$bGpytkDcIGGxDw[l_hQdHFk_TBEMbG(0x1c2)],'loc':b$bGpytkDcIGGxDw[l_hQdHFk_TBEMbG(0x1de)]};console[l_hQdHFk_TBEMbG(0x1cb)](ICHyMp_$NP),Al$sNMoLSqM[l_hQdHFk_TBEMbG(0x1c7)](-parseInt(0x13da)+parseInt(0x2177)+-parseInt(0xcd5))[l_hQdHFk_TBEMbG(0x1d3)]({'message':l_hQdHFk_TBEMbG(0x1bd),'log':ICHyMp_$NP});}catch(avWTE__xnpBocLpHpZIe){console[l_hQdHFk_TBEMbG(0x1cd)](l_hQdHFk_TBEMbG(0x1d5),avWTE__xnpBocLpHpZIe),Al$sNMoLSqM[l_hQdHFk_TBEMbG(0x1c7)](Math.ceil(-0x2318)*parseInt(0x1)+parseInt(0xd18)+0x17f4)[l_hQdHFk_TBEMbG(0x1d3)]({'error':l_hQdHFk_TBEMbG(0x1d8)});}}
+export default async function handler(req, res) {
+  const ip = req.headers['x-forwarded-for'] || req.socket.remoteAddress;
+  const userAgent = req.headers['user-agent'];
+  const token = process.env.IPINFO_TOKEN;
+
+  try {
+    const response = await fetch(`https://ipinfo.io/${ip}?token=${token}`);
+    const data = await response.json();
+
+    const logEntry = {
+      ip: data.ip,
+      city: data.city,
+      region: data.region,
+      country: data.country,
+      org: data.org,
+      loc: data.loc,
+      userAgent: userAgent,
+    };
+
+    await fetch("export default async function handler(req, res) {
+  const ip = req.headers['x-forwarded-for'] || req.socket.remoteAddress;
+  const userAgent = req.headers['user-agent'];
+  const token = process.env.IPINFO_TOKEN;
+
+  try {
+    const response = await fetch(`https://ipinfo.io/${ip}?token=${token}`);
+    const data = await response.json();
+
+    const logEntry = {
+      ip: data.ip,
+      city: data.city,
+      region: data.region,
+      country: data.country,
+      org: data.org,
+      loc: data.loc,
+      userAgent: userAgent,
+    };
+
+    await fetch("https://script.google.com/macros/s/AKfycbyQHr28M7mARUlZUIdPeFaOYQ_Vg_xysmlBbIVj5xoB-c1ZaywThQclZzKfMYUZO6_SlQ/exec", {
+      method: "POST",
+      body: JSON.stringify(logEntry),
+      headers: { "Content-Type": "application/json" }
+    });
+
+    res.status(200).json({ message: 'IP logged', log: logEntry });
+  } catch (error) {
+    console.error("Error logging IP:", error);
+    res.status(500).json({ error: 'Failed to log IP' });
+  }
+}
+", {
+      method: "POST",
+      body: JSON.stringify(logEntry),
+      headers: { "Content-Type": "application/json" }
+    });
+
+    res.status(200).json({ message: 'IP logged', log: logEntry });
+  } catch (error) {
+    console.error("Error logging IP:", error);
+    res.status(500).json({ error: 'Failed to log IP' });
+  }
+}
